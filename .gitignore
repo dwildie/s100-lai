@@ -6,3 +6,5 @@ kicad/LogicAnalyserSMD-backups/
 releases/
 
 kicad/~LogicAnalyserSMD.kicad_pcb.lck
+
+*.swp
