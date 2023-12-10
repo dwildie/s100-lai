@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.9-1.fc38"
     },
-    "CreationDate": "2023-12-10T14:56:16+10:00"
+    "CreationDate": "2023-12-11T09:13:37+10:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "LogicAnalyserSMD",
       "GUID": "4c6f6769-6341-46e6-916c-79736572534d",
-      "Revision": "0.0"
+      "Revision": "0.1"
     },
     "Size": {
       "X": 254.381,
@@ -27,7 +27,7 @@
       "PadToPad": 0.254,
       "PadToTrack": 0.254,
       "TrackToTrack": 0.254,
-      "MinLineWidth": 0.3048,
+      "MinLineWidth": 0.2032,
       "TrackToRegion": 0.254,
       "RegionToRegion": 0.254
     }
