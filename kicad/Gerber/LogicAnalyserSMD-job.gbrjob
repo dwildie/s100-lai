@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.9-1.fc38"
     },
-    "CreationDate": "2023-12-15T18:12:35+10:00"
+    "CreationDate": "2023-12-23T08:54:26+10:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "LogicAnalyserSMD",
       "GUID": "4c6f6769-6341-46e6-916c-79736572534d",
-      "Revision": "0.2"
+      "Revision": "0.3"
     },
     "Size": {
       "X": 254.381,
